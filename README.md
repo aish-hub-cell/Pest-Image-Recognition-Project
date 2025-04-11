@@ -4,11 +4,11 @@ A bilingual AI-based tool that detects pests and plant diseases from images usin
 
 ---
 
-## 🧠 English Description
+## 🧠 Description
 
 This project leverages TensorFlow and deep learning to classify common plant diseases and pests from images. Once identified, a generative model (GPT) provides **treatment options, prevention tips, and extra knowledge** about the issue — making it a powerful tool for farmers, agri-students, and researchers.
 
-> 💬 Results are provided in **structured expert-level responses**, with sections like causes, cures, home remedies, and prevention tips.
+> 💬 Results are provided in **structured expert-level responses**, with sections like causes, cures, home remedies, and prevention tips, both in English and Hindi.
 
 ---
 
